@@ -24,7 +24,7 @@
 
 ###
 
-<h1 align="center">Hello there! 👋 I'm Samiul Islam👨‍💻<br></h1><h2 align="center">How was your day❓</h2>
+<h1 align="center">Hello there! 👋 I'm Samiul Islam👨‍💻<br></h1>
 
 ###
 
